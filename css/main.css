@@ -1,0 +1,160 @@
+/*Спецификация*/
+body {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Mitr', sans-serif;
+    font-family: 'Concert One', cursive;
+}
+
+ul,
+li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 700;
+    color: #000000;
+}
+
+h3 {
+    font-weight: 400;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.title {
+    padding-top: 100px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.title2 {
+
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Mitr', sans-serif;
+}
+
+.title__main {
+    font-size: 32px;
+    font-family: 'Mitr', sans-serif;
+}
+
+.title__text {
+    font-size: 20px;
+    width: 780px;
+    margin: 0 auto;
+    font-family: 'Mitr', sans-serif;
+}
+
+/*Первый экран*/
+.header {
+    background: url(../img/foto5.jpg) no-repeat center top;
+    color: #000000;
+    padding-top: 58px;
+}
+
+.menu {
+    margin-top: 10px;
+}
+
+.menu__item {
+    margin: 0 57px;
+}
+
+.menu__item a {
+    font-size: 22px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+.offer {
+    margin-top: 100px;
+
+}
+
+.offer__title {
+    font-size: 32px;
+    margin-bottom: 15px;
+    font-family: 'Mitr', sans-serif;
+}
+
+.offer__intro {
+    font-size: 20px;
+    width: 500px;
+    font-family: 'Mitr', sans-serif;
+}
+
+.offer__text {
+    font-size: 20px;
+    margin-top: 15px;
+    color: #000000;
+    width: 500px;
+    font-family: 'Mitr', sans-serif;
+}
+
+.icons__item {
+    margin-right: 30px;
+}
+
+.icons__item a {
+    color: #000;
+    font-size: 42px;
+}
+
+.foto {
+    display: block;
+    margin: 40px auto 0;
+}
+
+.fuature__icon {
+    font-size: 50px;
+    margin-right: 37px;
+    color: #000;
+}
+
+
+.images {
+    margin-left: 150px;
+}
+
+.features {
+    background: url(../img/222.jpg) no-repeat center top;
+}
+
+.list-group {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.hello {
+    font-size: 30px;
+    font-family: 'Concert One', cursive;
+
+}
+
+.about {
+    font-family: 'Mitr', sans-serif;
+    margin-left: 30px;
+}
+
+.footer {
+    background: url(../img/!444.jpg) no-repeat center top;
+    font-family: 'Concert One', cursive;
+}
+
+.progress {
+    margin-top: 20px;
+}
+
+.info {
+    font-size: 35px;
+}
